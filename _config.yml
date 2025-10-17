@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Karlin Smith' Digital Portfolio
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   This is my senior year Honors Engineering portfolio! Here you will find the projects that I have woked on throughout
   my senior year as well as some of my reflections on the process.
@@ -62,16 +62,17 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://karlinsmith08.github.io/KarlinSmithPortfolio/"
+    - label: "Personal GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/KarlinSmith08/KarlinSmithPortfolio"
+    - label: "GitHub for work with the Pearl"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/26wickhm/pearl"
+    - label: "LinkedIn"
+      icon: "***"
+      url: "www.linkedin.com/in/karlin-smith-13319238b"
+ 
 
 footer:
   links:
