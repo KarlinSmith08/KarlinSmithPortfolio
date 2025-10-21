@@ -1,9 +1,9 @@
 
 title: Karlin Smith's Digital Portfolio
-email: 
+email: 26smithk@charlottelatin.org
 description: >- # this means to ignore newlines until "baseurl:"
   This is my senior year Honors Engineering portfolio! Here you will find the projects that I have woked on throughout
-  my senior year as well as some of my reflections on the process.
+  my senior year as well as my reflections on the process.
 github_username: KarlinSmith08
 minimal_mistakes_skin: default
 search: true
@@ -44,7 +44,7 @@ plugins:
 author:
   name   : "Karlin Smith"
   avatar : "/assets/images/KarlinBioPhoto.JPG"
-  bio    : "Senior at Charlotte Latin School. I will be attening Bucknell University in the fall of 2026 to study Biomedical Engineering."
+  bio    : "Iam a current Senior at Charlotte Latin School. I will be attening Bucknell University in the fall of 2026 to study Biomedical Engineering."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
