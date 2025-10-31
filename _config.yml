@@ -44,7 +44,7 @@ plugins:
 author:
   name   : "Karlin Smith"
   avatar : "/assets/images/KarlinBioPhoto.JPG"
-  bio    : "Iam a current Senior at Charlotte Latin School. I will be attening Bucknell University in the fall of 2026 to study Biomedical Engineering."
+  bio    : "I am a current Senior at Charlotte Latin School. I will be attening Bucknell University in the fall of 2026 to study Biomedical Engineering."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
