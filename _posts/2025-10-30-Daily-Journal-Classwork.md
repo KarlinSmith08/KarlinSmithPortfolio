@@ -13,6 +13,8 @@ October 17th, 2025: We worked through how to create a personal site off of a Git
 
 October 18th - 24th, 2025: Work on Github personal portfolio. 
 
-October 27th - 31st, 2025: We learned how to use the Makeracam software. I collaborated with some classmates on a [workflow](https://docs.google.com/document/d/11tfkl1KDUICMX-pGunKv4OHR_r86MtKP31el83fys3Q/edit?usp=sharing) on how to use the CNC machine and the software.
-![IMG_2448](https://github.com/user-attachments/assets/924e0a83-a8cd-4c34-85d1-f1ae55d0cfef)
+October 27th - 31st, 2025: We learned how to use the Makeracam software. I collaborated with some classmates on a [workflow](https://docs.google.com/document/d/11tfkl1KDUICMX-pGunKv4OHR_r86MtKP31el83fys3Q/edit?usp=sharing) on how to use the CNC machine and the software. We first created the board in the Makeracam software by creating toolpaths based off of files given to us by our teacher. I saved these toolpaths by exporting it as GCode, and also saving the file as a .mkc so I could bring that up on the computer when I milled the board. Below is a picture of the toolpaths in Makeracam.
+![IMG_2448_(1)](assets/images/IMG_2448_(1).jpg)
+I went over to the computer connected to the CNC machine and opened the Makeracam file. I then followed the workflow and milled the board. Below is a picture of my milled board.   
+![Makeracampic](assets/images/Makeracampic.png0)
 
