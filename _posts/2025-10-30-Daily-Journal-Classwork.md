@@ -8,7 +8,7 @@ tags:
   - Classwork
 ---
 
-This is the journal of almost every day I spent working on classwork this year. While most of this class was built around working on our Senior Capstone projects, we also worked through lessons on how to use machines and materials in the lab as well as many skills we will need in the workforce. 
+*This is the journal of almost every day I spent working on classwork this year. While most of this class was built around working on our Senior Capstone projects, we also worked through lessons on how to use machines and materials in the lab as well as many skills we will need in the workforce.*
 
 **October 17th, 2025**: We worked through how to create a personal site off of a Github reposity. 
 
