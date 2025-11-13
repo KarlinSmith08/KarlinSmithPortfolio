@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - Journals
+  - Documentation
   - Atrium
 ---
 
