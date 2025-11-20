@@ -11,6 +11,11 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+# kramdown options: enable hard_wrap so single newlines become <br>
+# and use GitHub-Flavored Markdown input which is commonly expected.
+kramdown:
+  input: GFM
+  hard_wrap: true
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
