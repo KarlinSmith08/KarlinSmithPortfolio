@@ -87,7 +87,7 @@ Once the board has been installed correctly, it should look like this:
 *Running file*:
 Download gcode.nc file from Fab google drive
 Open Cavera Controller
-Open file (top left corner) → Upload File → (should be in Downloads) select your gcode file (yourfilename.nc) → “Upload & Select” 
+Open file (top left corner) → Upload File → (should be in Downloads) select your gcode file (yourfilename.nc) → “Upload & Select”
 Idle (top left) → COM Port ___ (some number)
 Additional settings (top right dropdown) → Display Manual Controls → Home
 Tool status → ensure Voltage>3.6V
@@ -96,7 +96,7 @@ Machine should touch down at 25 points on material and then file should run (who
 
 
 Below is a picture of my milled board:
-<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2448 (2).heic">
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2448_(1).jpg">
 
 I did not face many challenges in this project. The only small one I did face was the original dimensions of the board we were given. As I went to mill my board, I was told that we had been given dimensions that did not actaully align with the baord we were given.I simply had to go back into the MakeraCAM software and change the board dimensions I had put in orignally. I then redownloaded all of the files. The dimensions and files above are correct. 
 
