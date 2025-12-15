@@ -22,7 +22,10 @@ I then printed a set of all four of the mouthpieces. I tested them by seeing how
 
 **December 1st**: I recieved an email saying that when Mrs. Smith went to install the QuadStick mouthpiece, the screws and connectors she had would not install into the mouthpiece I had created. 
 
-I searched for the screws and connectors I would need first. I found that I would need 3 [Nylon Tube Fitting Barbed Adapters](https://www.mcmaster.com/5463K33-2974K116/), 1 Nylon Thumb Screw, 3 Male Luer Integral Lock Ring to Barbs, 1 Nylon Spacer, and 1 Male Luer.  
+I searched for the screws and connectors I would need first. I found that I would need 3 [Nylon Tube Fitting Barbed Adapters](https://www.mcmaster.com/5463K33-2974K116/), 1 [Nylon Thumb Screw](https://www.mcmaster.com/94323a729), 3 [Male Luer Integral Lock Ring to Barbs](https://www.mcmaster.com/51525k121/), 1 [Nylon Spacer](https://www.mcmaster.com/96110A040/), and 1 [Male Luer](https://www.mcmaster.com/51525k428/).  
+
+I created [this file](https://drive.google.com/file/d/1cdjnRW67XxXTqOZWHry4d6bbZqDxcJBz/view?usp=sharing) with all of the required screws and connectors to 3D print. A picture of all of them is below:
+<img src="https://karlinsmith08.github.io/FABLabRehab_Atrium_Health  ">
 
 **December 8th, 2025**: I started building the screws and connectors into the Quadstick mouthpiece. 
 
