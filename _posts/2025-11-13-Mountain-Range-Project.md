@@ -9,6 +9,8 @@ tags:
   - Classwork
 ---
 
+goes off of makercam cam project
+
 workflow
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091204.png">
 

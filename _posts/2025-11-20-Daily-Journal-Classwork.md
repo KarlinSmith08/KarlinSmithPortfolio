@@ -21,4 +21,6 @@ tags:
 
 **November 17th, 2025**: We 
 
+**December 12th, 2025**: I milled my topography map
+
 
