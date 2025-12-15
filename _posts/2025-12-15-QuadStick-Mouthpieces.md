@@ -1,17 +1,14 @@
 ---
 title: "Mountain Range Project"
-last_modified_at: 2025-11-13
+last_modified_at: 2025-12-15
 categories:
   - Blog
 tags:
   - Journals
   - Documentation
-  - Classwork
+  - Atrium
 ---
 
-workflow
-<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091204.png">
+**December 8th, 2025**: I started building the screws and connectors into the Quadstick mouthpiece. 
 
-<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091545.png">
-
-<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091846.png">
+**December 10th, 2025**: We visited the rehab center again. I looked at the set up of their QuadStick and got tips on how to continue adding the screws to the mouthpiece itself. 

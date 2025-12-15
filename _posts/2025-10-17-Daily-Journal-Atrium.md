@@ -24,3 +24,7 @@ tags:
 **October 30th, 2025**: I organized a meeting, with my partners, with the underclassmen who are also interested in the intership with the Pearl. We will lead them and train them to be able to take over these projects once we graduate. The four of us will rotate every two months through the following leadership positions: Project Coordinator (Communicates with hospital staff, manage overall project timelines), Operations Lead (Organizes the larger group of students, creates the working schedule, manages workspace), Technical and Design Lead (Researches and approves all projects, creates build plans, prototypes new ideas), Quality Assurance and Safety Lead (Creates a safety and quality checklist, manages safety protocols, conducts final testing). For roughly the next two months I will be serving as the Technical and Design Lead.  
 
 **November 5th, 2025**: I created the shared GitHub repository and portfolio for the FABLab Rehab projects. You can find this portfolio [here](https://karlinsmith08.github.io/FABLabRehab_Atrium_Health/) and you can find the repository [here](https://github.com/KarlinSmith08/FABLabRehab_Atrium_Health). 
+
+**December 8th, 2025**: I started building the screws and connectors into the Quadstick mouthpiece. 
+
+**December 10th, 2025**: We visited the rehab center again. I looked at the set up of their QuadStick and got tips on how to continue adding the screws to the mouthpiece itself.
