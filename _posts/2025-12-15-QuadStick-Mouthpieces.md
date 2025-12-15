@@ -1,5 +1,5 @@
 ---
-title: "Mountain Range Project"
+title: "QuadStick Mouthpieces"
 last_modified_at: 2025-12-15
 categories:
   - Blog
