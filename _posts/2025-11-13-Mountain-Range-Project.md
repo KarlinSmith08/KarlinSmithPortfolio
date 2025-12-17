@@ -17,12 +17,26 @@ I saved it as an STL without changing any of the "Model Details" and sent it str
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091846.png">
 And after printing, it looked like this:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2561.png">
+It came out how I wanted it, so I moved on to carving the design with MakercaCAM. 
 
+I first created a new file in Aspire. I set the "Job Type" to "Single Slided". I set my "Job Size" to width(x): 2.5in, length (y): 3.5in, and height (z): 1.0in, which matched my block of wood. The X axis is to the right and left of the bed while the Y axis is to the back of the Carvera machine when looking at the bed.
+Set your Thickness (Z). I set the "Zero Origin" to
+Z Zero Position: Material Surface (top) and the XY Datum Position: BottomLeft. 
 
+I then imported my 3D STL model. I went to the Modeling tab and click the "Import a Component or 3D Model" icon and I imported my STL file. 
+I set the "Initial Orientation" to "Top". I adjusted the model's Width, Height, and Depth to the lengths I used previously. I then uses the "Lock" icon to change the X, Y, and Z sizes so they would stay in the correct ratio. I applied this and centered the model. Next, I used the slider bar to keep my STL above the purple horizontal cutting plane so it would all be cut.
 
-goes off of makercam cam project
+I then started to create the toolpaths. I started with the "Roughing Toolpath." I set the material needs to Hardwood and the "1/8” End Mill tool". I named this toolpath and "calculated" it. I then created the "Finishing Toolpath." I selected a "small ⅛” Ball Nose bit". I named my toolpath and calculated it. I then created the "2D Roughing Toolpath." I made the cutting depth "Start Depth" 0 and the "Cut Depth" 0.5. I then selected a "large 25 mm Flute End Mill (3.175 mm)." I named it and calculated it. 
 
-first did a 3D print with this site 
+After all of this had been done it looked like this:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/
 
-then didi it again b
+">
+
+I saved this file as [this .crvd file](https://drive.google.com/file/d/1HNjsg7dBQYJRujcTaocTgnkAXHpDYslT/view?usp=sharing0). I then clicked on "Save Toolpaths," saved all of my toolpaths, chose my machine as the "Carvera Desktop CNC Machine," and then chose my Post-Processor as "Carvera ATC (mm)." This gave me [this .gcode file](https://drive.google.com/file/d/12uMab1MPRpPNCqvlpnuS-CCcssRjr00h/view?usp=drive_link).
+
+I went over to the computer attached to the Carvera CNC Machine. I used the same workflow for use of the CNC machine as I did for my [MakeraCAM](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/MakeraCAM/) project. I uploaded my .gcode file to the computer, homed the machine, and then pressed
+
+I then previewed all of my toolpaths which ended up looking like this in the MakeraCAM software:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-12-12 102944 (1).png">
 
