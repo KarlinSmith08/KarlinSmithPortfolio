@@ -13,7 +13,12 @@ After working with [MakeraCAM](https://karlinsmith08.github.io/KarlinSmithPortfo
 
 We started off by visiting [this site](https://jthatch.com/Terrain2STL/) called "Terrain2STL." I decided I wanted my map to be of Lewisburg, Pennsylvania, where I will be going to college. I zoomed in on this portion of the map and made the box area: . I found that the location that I wanted was: Latitude: 41.4023 Longitude: -77.2358. Below is a picture of the website with my selected area, highlighted in the red box.
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091204.png">
-I saved it as an STL without changing any of the "Model Details" and sent it straight to Bambu Studio. When I opened the file, I could not make out any of the mountains or any part of the river. I went back to the site and raised the vertical scaling all the up, to level 4. When I sent it to Bambu as [this file](https://drive.google.com/file/d/1n5s3LgmrN1KoeVK1vZSmWP-U3I20gx3Q/view?usp=sharing). 
+I saved it as an STL without changing any of the "Model Details" and sent it straight to Bambu Studio. When I opened the file, I could not make out any of the mountains or any part of the river. I went back to the site and raised the vertical scaling all the up, to level 4. When I sent it to Bambu as [this file](https://drive.google.com/file/d/1n5s3LgmrN1KoeVK1vZSmWP-U3I20gx3Q/view?usp=sharing), it appeared in Bambu how I wanted it to print, featured below.
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-11-12 091846.png">
+And after printing, it looked like this:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2561.png">
+
+
 
 goes off of makercam cam project
 
