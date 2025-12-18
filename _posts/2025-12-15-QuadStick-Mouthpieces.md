@@ -26,7 +26,7 @@ I then printed all four mouthpieces. I tested that the four sip-and-puff holes a
 
 **December 1st, 2025**: I received an email saying that when Mrs. Smith went to install the QuadStick mouthpiece, the screws and connectors she had would not install into the mouthpiece I had created.
 
-I searched for the screws and connectors I would need. I found this [QuadStick GitHub Repository](https://github.com/QuadStick/Hardware) and a section called "Hardware." There was [this bill of materials file](file:///Users/karlinsmith/Downloads/QuadStick%20Mouthpiece%20BOM.pdf) included in the repository, which detailed all of the screws and connectors required.
+I searched for the screws and connectors I would need. I found this [QuadStick GitHub Repository](https://github.com/QuadStick/Hardware) and a section called "Hardware." There was [this bill of materials file](https://drive.google.com/file/d/1pUMxxCoKtXcdQ1WeYNEvMc2DixYxG5Dp/view?usp=sharing) included in the repository, which detailed all of the screws and connectors required.
 
 I found that I would need 3 [Nylon Tube Fitting Barbed Adapters](https://www.mcmaster.com/5463K33-2974K116/), 1 [Nylon Thumb Screw](https://www.mcmaster.com/94323a729), 3 [Male Luer Integral Lock Ring to Barbs](https://www.mcmaster.com/51525k121/), 1 [Nylon Spacer](https://www.mcmaster.com/96110A040/), and 1 [Male Luer](https://www.mcmaster.com/51525k428/) for each mouthpiece.  
 
