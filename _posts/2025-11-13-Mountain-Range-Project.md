@@ -28,15 +28,12 @@ I set the "Initial Orientation" to "Top". I adjusted the model's Width, Height, 
 
 I then started to create the toolpaths. I started with the "Roughing Toolpath." I set the material needs to Hardwood and the "1/8” End Mill tool". I named this toolpath and "calculated" it. I then created the "Finishing Toolpath." I selected a "small ⅛” Ball Nose bit". I named my toolpath and calculated it. I then created the "2D Roughing Toolpath." I made the cutting depth "Start Depth" 0 and the "Cut Depth" 0.5. I then selected a "large 25 mm Flute End Mill (3.175 mm)." I named it and calculated it. 
 
-After all of this had been done it looked like this:
-<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/
+I saved this file as [this .crv file](https://drive.google.com/file/d/1HNjsg7dBQYJRujcTaocTgnkAXHpDYslT/view?usp=sharing0). I then clicked on "Save Toolpaths," saved all of my toolpaths, chose my machine as the "Carvera Desktop CNC Machine," and then chose my Post-Processor as "Carvera ATC (mm)." This gave me [this .gcode file](https://drive.google.com/file/d/12uMab1MPRpPNCqvlpnuS-CCcssRjr00h/view?usp=drive_link).
 
-">
-
-I saved this file as [this .crvd file](https://drive.google.com/file/d/1HNjsg7dBQYJRujcTaocTgnkAXHpDYslT/view?usp=sharing0). I then clicked on "Save Toolpaths," saved all of my toolpaths, chose my machine as the "Carvera Desktop CNC Machine," and then chose my Post-Processor as "Carvera ATC (mm)." This gave me [this .gcode file](https://drive.google.com/file/d/12uMab1MPRpPNCqvlpnuS-CCcssRjr00h/view?usp=drive_link).
-
-I went over to the computer attached to the Carvera CNC Machine. I used the same workflow for use of the CNC machine as I did for my [MakeraCAM](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/MakeraCAM/) project. I uploaded my .gcode file to the computer, homed the machine, and then pressed
-
-I then previewed all of my toolpaths which ended up looking like this in the MakeraCAM software:
+I went over to the computer attached to the Carvera CNC Machine. I used the same workflow for use of the CNC machine as I did for my [MakeraCAM](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/MakeraCAM/) project. I placed my wood block into the CNC machine and tightened it with studier screws than I had with the PCB. I installed the bottom flat bracket before adding and tightthening the top triangle-shaped bracket. After installing my wood block into the CNC machine, I uploaded my .gcode file to the computer and homed the machine. I then previewed all of my toolpaths which ended up looking like this in the MakeraCAM software:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-12-12 102944 (1).png">
+I then ran the job.
+
+A very important note to this project and **problem I faced** was as the CNC machine started to run, it starts by tracing a red light over where the machine will carve. I watched, and I realized that the red dot traced over some parts of the metal of the machine. I quickly paused the job and realized that I had not set the "Work Origin" to (6,6) and it remained at (0,0) and would therefore have milled into itself if I had not stopped it. I ran the job with the change, and it came out like this:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2559.png">
 
