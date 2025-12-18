@@ -35,5 +35,7 @@ I created [this file](https://drive.google.com/file/d/1cdjnRW67XxXTqOZWHry4d6bbZ
 
 **December 8th, 2025**: I started building the screws and connectors into the QuadStick mouthpiece. I first tried to do this by inserting the screws and connectors into the mouthpieces.
 
-**December 10th, 2025**: We visited the rehab center again. I looked at their QuadStick setup and got tips on how to continue adding the screws to the mouthpiece itself.
+**December 10th, 2025**: We visited the rehab center again. I looked at their QuadStick setup and got tips on how to continue adding the screws to the mouthpiece itself. Below are some pictures of their QuadStick setup.
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3962.jpeg">
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3963.jpeg">
 
