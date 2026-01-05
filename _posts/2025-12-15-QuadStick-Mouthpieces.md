@@ -13,10 +13,7 @@ tags:
 
 While visiting Atrium's rehabilitation center, I was asked to create more mouthpieces for the hospital's sip-and-puff controller technology called the [QuadStick](https://www.quadstick.com/). The OTs and PTs were forced to use the same mouthpieces as patients because there were so few available. Our goal for this project was to create multiple mouthpiece sizes so that: 1) they would attach to their version of the QuadStick technology; and 2) patients would have narrow and wide options for different needs. We would also mass produce these mouthpieces so patients at the rehab center could have their own mouthpiece (or set of mouthpieces) and take them home once their time at the center is over.
 
-<!-- Embedded Google Doc: publish the doc or set sharing to 'anyone with the link can view' if it appears blank -->
-<iframe src="https://docs.google.com/document/d/1fa33UM5Pu-Xn7GjAgKgR0CAXzxth3mLClwVKQ2UD1ZE/edit?usp=sharing"
-  width="100%" height="600" style="border:0;">
-</iframe>
+Here is my design specification document: [Design Specifications](https://docs.google.com/document/d/1fa33UM5Pu-Xn7GjAgKgR0CAXzxth3mLClwVKQ2UD1ZE/edit?usp=sharing)
 
 I began by finding files for the QuadStick mouthpiece. I found this [QuadStick GitHub Repository](https://github.com/QuadStick/Hardware) which was created by Fred Davidson. On this repo I found four files: narrow and wide mouthpiece models with three holes, and narrow and wide models with four holes. 
 
