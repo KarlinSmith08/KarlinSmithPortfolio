@@ -23,7 +23,7 @@ I then created a file containing all four variations; it can be found [here](htt
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-12-16 at 1.35.48 PM.png">
 Below is a picture of the file being prepared to print in Bambu Studio:
 <img src="https://karlinsmith08.github.io/FABLabRehab_Atrium_Health/assets/images/Mouthpieces_in_Bambu.png">
-I then printed all four mouthpieces. This print requires 39.34g of PLA filament and has a **cost** of $0.79. I tested that the four sip-and-puff holes at the top connected correctly to the holes at the bottom, which interface with the QuadStick itself. Below are a few pictures of the four printed mouthpieces and their assets:
+I then printed all four mouthpieces. I left the settings as the defualt, however I turned off supports becuase the print did not require them. This print requires 39.34g of PLA filament and has a cost of $0.79. I tested that the four sip-and-puff holes at the top connected correctly to the holes at the bottom, which interface with the QuadStick itself. Below are a few pictures of the four printed mouthpieces and their assets:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2412.png">
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2414 (1).png">
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2415.png">
@@ -45,4 +45,4 @@ I was able to download all of the CAD 3D solidworks files for the screws and con
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3962.jpeg">
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3963.jpeg">
 
-Currently: I am adding the screws and connectors onto all four models of the QuadStick. I also will have to increase the size of the mouthpieces becuase the adapters on the bottom of the mouthpieces don't fit flush into the mouthpieces. Mrs. Smith also said that the orignal mouthpiece without connectors was a little too snug on the QuadStick technology. I know that the screws and connectors are the correct size as I got the files off of the manufacturer's website. I will continue trying prototypes on the QuadStick technology at Atrium, and our goal will still be mass production on a food-safe 3D printer. 
+**Current**: I am adding the screws and connectors onto all four models of the QuadStick. I also will have to increase the size of the mouthpieces becuase the adapters on the bottom of the mouthpieces don't fit flush into the mouthpieces. Mrs. Smith also said that the orignal mouthpiece without connectors was a little too snug on the QuadStick technology. I know that the screws and connectors are the correct size as I got the files off of the manufacturer's website. I will continue trying prototypes on the QuadStick technology at Atrium, and our goal will still be mass production on a food-safe 3D printer. 

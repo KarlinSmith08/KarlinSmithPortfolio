@@ -1,6 +1,6 @@
 ---
 title: "Daily Journal: Classwork"
-last_modified_at: 2025-11-20
+last_modified_at: 2025-12-10
 categories:
   - Blog
 tags:
