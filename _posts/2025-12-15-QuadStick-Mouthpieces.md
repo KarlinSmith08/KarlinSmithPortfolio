@@ -46,3 +46,5 @@ I was able to download all of the CAD 3D solidworks files for the screws and con
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3963.jpeg">
 
 **Current**: I am adding the screws and connectors onto all four models of the QuadStick. I also will have to increase the size of the mouthpieces becuase the adapters on the bottom of the mouthpieces don't fit flush into the mouthpieces. Mrs. Smith also said that the orignal mouthpiece without connectors was a little too snug on the QuadStick technology. I know that the screws and connectors are the correct size as I got the files off of the manufacturer's website. I will continue trying prototypes on the QuadStick technology at Atrium, and our goal will still be mass production on a food-safe 3D printer. 
+
+**January 8th, 2026**: I created a task analysis for what was left to complete for the QuadStick project before March 5th: [Task Analysis](https://docs.google.com/document/d/1v8TdGSCLxdBYvnrkNme2ztJKMW_pNCzp8FzNl3ANa84/edit?usp=sharing)
