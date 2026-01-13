@@ -28,3 +28,11 @@ tags:
 **December 8th, 2025**: I started building the screws and connectors into the Quadstick mouthpiece. 
 
 **December 10th, 2025**: We visited the rehab center again. I looked at the set up of their QuadStick and got tips on how to continue adding the screws to the mouthpiece itself.
+
+**January 8th, 2026**: I created a task analysis for what was left to complete for the QuadStick project before March 5th: [Task Analysis](https://docs.google.com/document/d/1v8TdGSCLxdBYvnrkNme2ztJKMW_pNCzp8FzNl3ANa84/edit?usp=sharing)
+
+January 
+
+January 12th, 2025:
+
+**January 13th, 2025**: Cleaned and tested connections of the new QuadStick. 
