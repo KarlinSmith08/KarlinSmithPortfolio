@@ -39,12 +39,20 @@ I found that I would need 3 [Nylon Tube Fitting Barbed Adapters](https://www.mcm
 I was able to download all of the CAD 3D solidworks files for the screws and connectors off of the McCaster-Carr website. I created [this file](https://drive.google.com/file/d/1cdjnRW67XxXTqOZWHry4d6bbZqDxcJBz/view?usp=sharing) with all of the required screws and connectors to 3D print. A picture of all of them is below:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-12-16 at 1.32.28 PM.png">
 
-**December 8th, 2025**: I started building the screws and connectors into the QuadStick mouthpiece. I first tried to do this by inserting the screws and connectors into the mouthpieces.
-
-**December 10th, 2025**: We visited the rehab center again. I looked at their QuadStick setup and got tips on how to continue adding the screws to the mouthpiece itself. Below are some pictures of their QuadStick setup.
+We visited the rehab center again on December 10th. I looked at their QuadStick setup and got tips on how to continue adding the screws to the mouthpiece itself. Below are some pictures of their QuadStick setup.
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3962.jpeg">
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_3963.jpeg">
 
 **Current**: I am adding the screws and connectors onto all four models of the QuadStick. I also will have to increase the size of the mouthpieces becuase the adapters on the bottom of the mouthpieces don't fit flush into the mouthpieces. Mrs. Smith also said that the orignal mouthpiece without connectors was a little too snug on the QuadStick technology. I know that the screws and connectors are the correct size as I got the files off of the manufacturer's website. I will continue trying prototypes on the QuadStick technology at Atrium, and our goal will still be mass production on a food-safe 3D printer. 
 
-**January 8th, 2026**: I created a task analysis for what was left to complete for the QuadStick project before March 5th: [Task Analysis](https://docs.google.com/document/d/1v8TdGSCLxdBYvnrkNme2ztJKMW_pNCzp8FzNl3ANa84/edit?usp=sharing)
+I created a task analysis for what was left to complete for the QuadStick project before March 5th: [Task Analysis](https://docs.google.com/document/d/1v8TdGSCLxdBYvnrkNme2ztJKMW_pNCzp8FzNl3ANa84/edit?usp=sharing)
+
+When the second semester started, I took on the challenge of adding the screws and connectors into the QuadStick mouthpieces. I took the file I had made with all of the screws and connectors and copied it into my Fusion file for the 4 mouthpieces. At first, I just moved each mouthpiece into each hole by guessing. I noticed that they weren't fitting quite right. I remembered what Mrs. Smith had said about struggling to fit the mouthpiece onto the techonolgy. 
+
+I decided I needed to **size up** the mouthpieces.I went into Bambu and opened my original QuadStick file. I increased the X, Y and Z dimension up by 0.1 mm. I saved this back to Fusion. I then realized that all of the screws I had saved wouldn't be necessary for every mouthpiece. I would need 3 (for 3 hole) or 4 (for 4 hole) of the Nylon Tube Fitting Barbed Adapters for every mouthpiece as well as 1 Nylon Thumb Screw per mouthpiece. The thumbs screw would need to be printed seperately and could not be installed as this is used to tighten the mouthpiece on and off of the technology. 
+
+I went on to **install the adapters into the mouthpieces**. I copied the adapters off of my original file with the screws and connectors and pasted them into the sized up Fusion file. I used the "Move/Copy" feature in Fusion to slide the adapters rght into place. I knew they were all in the correct spot when: all of the adapters were at the same height and when looking straight down at the bottom of the mouthpieces, the adapters fit inside of a small circle created by the mesh adaptation in Fusion (this is where the hole for the adapter starts to dip into the mouthpiece). Below are pictures of the adapters installed into each mouthpiece. 
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-12-11 094650.png">
+Above is a close up of how the adapters fit into the mouthpieces.
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-01-08 104150.png">
+This is the straigth down view I would use to 
