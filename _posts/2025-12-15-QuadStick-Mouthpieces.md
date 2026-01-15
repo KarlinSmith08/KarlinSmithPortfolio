@@ -55,4 +55,19 @@ I went on to **install the adapters into the mouthpieces**. I copied the adapter
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2025-12-11 094650.png">
 Above is a close up of how the adapters fit into the mouthpieces.
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-01-08 104150.png">
-This is the straigth down view I would use to 
+This is the straigth down view I used to get the X, Y positioning. 
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-01-08 104251.png">
+This is the mouthpieces after all of the adapters have been added. 
+Here is the file after all of the adapters have been added: [Mouthpieces with Adapters](https://drive.google.com/file/d/1nsuVz_XHUct-DG7yZe1TOamFCdOTxa0m/view?usp=sharing)
+
+I then made a **test print** of the connection from the bottom of the mouthpiece and the connection to the adapters. In Bambu, I used the slice feature and cut off the parts of the mouthpieces I didn't want to print. This is the slice in Bambu:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-01-08 104911.png">
+This is the printed slice:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/">
+
+I liked how the connections came out so I printed a set of mouthpieces with the adapters. I sent the file to Bambu. It came in with the adapters toughing the print plate and the mouthpieces facing up. I rotated them and then two mouthpieces were laying flat on the print plate and two were above. I used the split tool to separate the floating two from the laying two and them moved the floating two onto the print plate. This is a picture of the 4 mouthpieces in Bambu.
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/SScreenshot 2026-01-12 133921.png">
+I pressed slice plate and a warning message popped up. It turned out that one of my mouthpieces wasn't actually flush to the print plate. I used the "Manual Tree Support" option and then the "Paint Support" tool to put supports on this mouthpiece only. This shows the supports added:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/SScreenshot 2026-01-12 135040.png">
+
+This is a picture of the 
