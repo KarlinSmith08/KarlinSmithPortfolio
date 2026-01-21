@@ -35,4 +35,8 @@ January
 
 January 12th, 2025:
 
-**January 13th, 2025**: Cleaned and tested connections of the new QuadStick. 
+**January 13th, 2026**: Cleaned and tested connections of the new QuadStick. 
+
+**January 20th, 2026**: I did sone research on creating a [watter bottle holder]()
+
+**January 21st, 2026**: I created a list of questions to ask Mrs. Smith the next time we went into the hospital to know how to contiue the water bottle holder's construction.

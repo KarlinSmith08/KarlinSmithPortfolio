@@ -72,3 +72,5 @@ I pressed slice plate and a warning message popped up. It turned out that one of
 
 This is a picture of the mouthpieces after they had been printed:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2588.png">
+
+I need to test these mouthpieces on the QuadStick technology in the hosptial to know how to continue this project. 
