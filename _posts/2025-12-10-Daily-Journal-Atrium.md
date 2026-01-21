@@ -37,6 +37,6 @@ January 12th, 2025:
 
 **January 13th, 2026**: Cleaned and tested connections of the new QuadStick. 
 
-**January 20th, 2026**: I did some research on creating a [watter bottle holder](). This would be an attachment that would connect to Caroline and Scarlett's mount project
+**January 20th, 2026**: I did some research on creating a [water bottle holder](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/Water-Bottle-Holder/). This would be an attachment that would connect to Caroline and Scarlett's mount project. 
 
 **January 21st, 2026**: I created a list of questions to ask Mrs. Smith the next time we went into the hospital to know how to contiue the water bottle holder's construction.
