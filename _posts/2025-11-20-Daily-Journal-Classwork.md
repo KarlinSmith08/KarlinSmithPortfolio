@@ -15,12 +15,14 @@ tags:
 
 **October 18th - 24th, 2025**: Work on Github personal portfolio. 
 
-**October 27th - 31st, 2025**: 
+**October 27th - 31st, 2025**: We worked on our [MakeraCAM Project](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/MakeraCAM/).
 
 **November 4th, 2025**: Work day dedicated to Github. I figured out how to bold and also insert pictures. 
 
-**November 17th, 2025**: We 
+**November 17th-20th, 2025**: Work days dedicated to GitHub (of our MakeraCAM project). 
 
-**December 12th, 2025**: I milled my topography map
+**November 24th-26th, 2025**: We worked on our [Topography - Mountain Range Project](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/Mountain-Range-Project/).
+
+**December 12th, 2025**: I milled my topography map.
 
 
