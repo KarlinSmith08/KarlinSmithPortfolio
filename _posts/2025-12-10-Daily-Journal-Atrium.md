@@ -29,14 +29,18 @@ tags:
 
 **December 10th, 2025**: We visited the rehab center again. I looked at the set up of their QuadStick and got tips on how to continue adding the screws to the mouthpiece itself.
 
-**January 8th, 2026**: I created a task analysis for what was left to complete for the QuadStick project before March 5th: [Task Analysis](https://docs.google.com/document/d/1v8TdGSCLxdBYvnrkNme2ztJKMW_pNCzp8FzNl3ANa84/edit?usp=sharing)
+**January 5th-6th, 2026**: I created a task analysis for what was left to complete for the QuadStick project before March 5th: [Task Analysis](https://docs.google.com/document/d/1v8TdGSCLxdBYvnrkNme2ztJKMW_pNCzp8FzNl3ANa84/edit?usp=sharing). I also helped edit our team's Ganntt chart: [FabLab Rehab Ganntt Chart](https://docs.google.com/spreadsheets/d/1KUwdj9kI55HfgN7Id-bnvF9NDiX7lRgDbh5SX6mPF74/edit?gid=1688732048#gid=1688732048).
 
-January 
+**January 7th, 2026**: I sized up the mouthpieces in Fusion360.
 
-January 12th, 2025:
+**January 8th-12th, 2026**: I installed the screws and connectors into the sized-up model of the mouthpieces. 
 
-**January 13th, 2026**: Cleaned and tested connections of the new QuadStick. 
+**January 13th, 2026**: Cleaned and tested connections of the new QuadStick with the screws and connectors installed through a test print. 
+
+**January 15th, 2026**: Documentation.
 
 **January 20th, 2026**: I did some research on creating a [water bottle holder](https://karlinsmith08.github.io/KarlinSmithPortfolio/blog/Water-Bottle-Holder/). This would be an attachment that would connect to Caroline and Scarlett's mount project. 
 
 **January 21st, 2026**: I created a list of questions to ask Mrs. Smith the next time we went into the hospital to know how to contiue the water bottle holder's construction.
+
+**January 22nd, 2026**: I did some more research and documentation while I waited for the next in-person meeting. We scheduled it for January 29th. 
