@@ -44,3 +44,5 @@ tags:
 **January 21st, 2026**: I created a list of questions to ask Mrs. Smith the next time we went into the hospital to know how to contiue the water bottle holder's construction.
 
 **January 22nd, 2026**: I did some more research and documentation while I waited for the next in-person meeting. We scheduled it for January 29th. 
+
+**January 23rd, 2026**: Scarlett sent me the attachment piece file in Fusion 360. I adapted it to fit my project. 
