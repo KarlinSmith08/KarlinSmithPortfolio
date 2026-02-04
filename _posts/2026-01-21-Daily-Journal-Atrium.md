@@ -48,3 +48,5 @@ tags:
 **January 23rd, 2026**: Scarlett sent me the attachment piece file in Fusion 360. I adapted it to fit my project. 
 
 **January 29th, 2026**: The suggested date for the meeting did not work for Mrs. Smith, so I spent this day proposing and scheduling another meeting. 
+
+**February 4th, 2026**: I colleted my second variant of the screw section from the printer and tested it on the mount. 

@@ -26,3 +26,6 @@ While I was waiting for the meeting, I had Scarlett send me the mount plate she 
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-01-23 125756.png">
 Below is a picture of the attachment in Bambu:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-01-23 125715.png">
+
+When I collected this screw section from the printer and removed the supports, the supports ended up taking out part of the threading of the screw. Therefore, when screwing in onto the mount, it wouldn't tighten to the point where the ball and stick would stop moving. Another issue I figured out was that I didn't increase the threading dimensions when I went back in and increased the thickness of the stick and the hole. I made this change and reprinted it. It fit onto the mount and after tightening it all the way, the ball and stick stopped moving which was the goal. The file for this screw section is here: [Screw Section v2](https://drive.google.com/file/d/1LzAViG0rqI0hrmFqhkzYijPRKYskbCBL/view?usp=sharing) Below is a picture of the new screw section:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2610.heic">
