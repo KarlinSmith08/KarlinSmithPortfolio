@@ -54,3 +54,7 @@ tags:
 **February 5th, 2026**: I made the water bottle holder coming off of the screw section, attached to the bottom of the holder. 
 
 **February 6th, 2026**: I moved the screw setion to the side of the water bottle holder across from the hole for the handle.
+
+**February 18th, 2026**: I printed out a water bottle holder with the screw section on the side. 
+
+**February 23rd, 2026**: Documentation, evaluated next steps. 
