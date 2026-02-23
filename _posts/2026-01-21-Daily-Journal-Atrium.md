@@ -57,4 +57,4 @@ tags:
 
 **February 18th, 2026**: I printed out a water bottle holder with the screw section on the side. 
 
-**February 23rd, 2026**: Documentation, evaluated next steps. 
+**February 23rd, 2026**: Documentation, evaluated next steps. I printed another set of mouthpieces and typed up some information on my projects to give to the staff at Atrium. We were unable to do an in-person meeting, so this was the easiet way to recieve feedback on my projects. 
