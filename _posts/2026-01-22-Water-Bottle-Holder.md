@@ -39,3 +39,4 @@ I then made another verison of the holder, using the same holder itself and the 
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-02-06 at 1.45.10 PM.png">
 And in Bambu, preparing to print: 
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-02-06 135239.png">
+s
