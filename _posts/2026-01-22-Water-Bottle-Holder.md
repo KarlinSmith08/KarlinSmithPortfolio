@@ -42,3 +42,5 @@ And in Bambu, preparing to print:
 Below are pictures of the water bottle holder, printed out:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2639.PNG">
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2640.PNG">
+
+We gave this water bottle holder to Atrium to test out. 
