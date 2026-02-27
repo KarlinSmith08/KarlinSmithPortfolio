@@ -1,6 +1,6 @@
 ---
 title: "Daily Journal: Work with Atrium Health"
-last_modified_at: 2026-02-28
+last_modified_at: 2026-02-27
 categories:
   - Blog
 tags:
