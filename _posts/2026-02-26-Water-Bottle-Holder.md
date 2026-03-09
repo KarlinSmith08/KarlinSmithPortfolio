@@ -44,3 +44,5 @@ Below are pictures of the water bottle holder, printed out:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2640.PNG">
 
 We gave this water bottle holder to Atrium to test out. 
+
+On March 4th we had a meeting with Mrs. Smith. I explained that I had made a guess as to the sizing of the water cup used in hosptials. She noted that she hadn't thought about using the water bottle holder for these cups, and instead imagined more of a skinny 28oz water bottle. She said she wouldn't mind trying both, so my next step would be to make one model wider, for the cups, and another model skinnier and taller, for the water bottles.  
