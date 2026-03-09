@@ -63,4 +63,10 @@ tags:
 
 **February 25th, 2026**: I added manual supports to the connectors on the QuadStick Mouthpieces file. I then reprinted a set of them for Atrium. 
 
-**February 27th, 2026**: Preparation of QuadSticks and water bottle holder for Atrium. Scheduled a Zoom meeting. 
+**February 27th, 2026**: Preparation of QuadSticks and water bottle holder for Atrium. Scheduled a Zoom meeting.
+
+**March 3rd, 2026**: Print another set of mouthpieces - adjusted supports. 
+
+**March 4th, 2026**: Zoom meeting with Mrs. Smith
+
+**March 5th-7th, 2026**: I presented my project. 
