@@ -70,3 +70,7 @@ tags:
 **March 4th, 2026**: Zoom meeting with Mrs. Smith
 
 **March 5th-7th, 2026**: I presented my project. 
+
+**March 9th, 2026**: I printed out the file for the holder screw. 
+
+**March 10th, 2026**: I reprinted the holder screw after rotating and taking away supports. I created a Gantt chart for what work I had left to complete before April 15th which is the Innovation and Design Showcase. 

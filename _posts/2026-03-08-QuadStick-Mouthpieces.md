@@ -84,3 +84,8 @@ I then printed this new file becuase I needed a set of mouthpieces to give to th
 I ended up using the Bambu Carbon printer for this print. I had been using a Bambu Mini, and I wanted to see if the printing quality would increase. They turned out great. It was slightly more accurate to the Fusion360 3D model than on the Bambu Mini, but not a huge noticiable difference. The most major change was that the connector ends didn't droop or gap at all. The file for this STL is here: [QuadStick Mouthpieces - Connectors and Supports](https://drive.google.com/file/d/1k400Z5SLCMuvU9Q0ArX3I4ZaAafSMzU_/view?usp=sharing). 
 
 We had a meeting with Mrs. Smith on March 4th. She told me that the newest set of mouthpieces I had given her fit onto the QuadStick perfectly. All of the tubes fit on to the adapters well and the air moved through perfectly. The only issue was that the screw that kept the mouthpiece onto the QuadStick didn't fit well. The good thing was that I already had a file for the screw. My plan is to add 4 screws to the file so that each mouthpiece come with a screw. I won't insert it like the adapters because I need it to move in and out. 
+
+When I retrieved it from the printer, the part where the supports were attached has not very clean. It didn't fit into the part it should have because of the impurities. Below is a picture:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2658.png">
+
+To fix this, I rotated the screw so that the top of the screw was on the print plate. The screw was printed out perfectly, yet it still didn't fit into the mouthpieces. 
