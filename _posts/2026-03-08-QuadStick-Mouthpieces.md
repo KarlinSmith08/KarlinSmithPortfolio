@@ -88,4 +88,9 @@ We had a meeting with Mrs. Smith on March 4th. She told me that the newest set o
 When I retrieved it from the printer, the part where the supports were attached has not very clean. It didn't fit into the part it should have because of the impurities. Below is a picture:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/IMG_2658.png">
 
-To fix this, I rotated the screw so that the top of the screw was on the print plate. The screw was printed out perfectly, yet it still didn't fit into the mouthpieces. 
+To fix this, I rotated the screw so that the top of the screw was on the print plate. The screw was printed out perfectly, yet it still didn't fit into the mouthpieces.
+
+I first attempted to make the design parametric in Fusion360 so I could downsize the entire file while keeping the scale uniform. I asked a friend for help since she had worked with parametric designs before, and she said the threading on the screw would be incredibly difficult to make into a parametric design. 
+
+My plan then become to scale the screws down in Bambu. I made 4 different scale test, as this portion of the project would be trial and error. The first was 100% scale, the second was 98%, then 96%, and 94%. Below is a picture of the 4 screw trials in Bambu:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-03-12 081438.png">
