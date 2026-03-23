@@ -76,3 +76,5 @@ tags:
 **March 10th, 2026**: I reprinted the holder screw after rotating and taking away supports. I created a Gantt chart for what work I had left to complete before April 15th which is the Innovation and Design Showcase. 
 
 **March 12th, 2026**: I printed 4 trials of screw scales. I did a 100%, 98%, 96%, 94% scale on the same print file.
+
+**March 23rd, 2026**: My print either did not finish, or someone accidentally took it off of the printer. I had to re-assemble the print and then re-print it. 
