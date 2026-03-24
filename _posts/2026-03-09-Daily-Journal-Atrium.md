@@ -78,3 +78,5 @@ tags:
 **March 12th, 2026**: I printed 4 trials of screw scales. I did a 100%, 98%, 96%, 94% scale on the same print file.
 
 **March 23rd, 2026**: My print either did not finish, or someone accidentally took it off of the printer. I had to re-assemble the print and then re-print it. 
+
+**March 24th, 2026**: I did another set of screws at 92%, 91%, 90%, 89%, and 88%. I found that the 88% version fit very well into the mouthpiece. I started another print with 4 of the 88% screws to make sure that it fit into all 4 versions of the mouthpiece.
