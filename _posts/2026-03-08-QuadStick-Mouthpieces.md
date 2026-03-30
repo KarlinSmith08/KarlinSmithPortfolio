@@ -99,3 +99,6 @@ They were all too big, so I did another set of screws at 92%, 91%, 90%, 89%, and
 
 I then made a file with the 4 mouthpieces and the 4 screws. I had to figure out how I could share the file with the supports painted on, as I did not want to make the Atrium employees have to paint on supports before every print. It would not export the support painting as an STL file, so I asked ChatGPT and it said that a 3mf file would export the painting. The STL version of the file is here: [QuadStick Mouthpieces and Pieces (STL)](https://drive.google.com/file/d/1pUy_-p-Y0iPpU8XpHxHJnlsFYUYrnzMN/view?usp=sharing). The 3mf version of the file is here: [QuadStick Mouthpieces and Pieces (3mf)](https://drive.google.com/file/d/12o7NWIAmEEThBpY7NXZowwWWr7zanRZF/view?usp=sharing). Below is a picture of the file in Bambu:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-03-30 144716.png">
+Note: This picture does not show the support painting.
+
+I printed this file to make sure the connections were still clean after adjusting and combining the pieces and mouthpieces. 
