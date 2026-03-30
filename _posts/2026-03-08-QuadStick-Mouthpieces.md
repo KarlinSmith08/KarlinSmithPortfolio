@@ -94,3 +94,8 @@ I first attempted to make the design parametric in Fusion360 so I could downsize
 
 My plan then become to scale the screws down in Bambu. I made 4 different scale test, as this portion of the project would be trial and error. The first was 100% scale, the second was 98%, then 96%, and 94%. Below is a picture of the 4 screw trials in Bambu:
 <img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-03-12 081438.png">
+
+They were all too big, so I did another set of screws at 92%, 91%, 90%, 89%, and 88%. I found that the 88% version fit very well into the mouthpiece. I started another print with 4 of the 88% screws to make sure that it fit into all 4 versions of the mouthpiece.
+
+I then made a file with the 4 mouthpieces and the 4 screws. I had to figure out how I could share the file with the supports painted on, as I did not want to make the Atrium employees have to paint on supports before every print. It would not export the support painting as an STL file, so I asked ChatGPT and it said that a 3mf file would export the painting. The STL version of the file is here: [QuadStick Mouthpieces and Pieces (STL)](https://drive.google.com/file/d/1pUy_-p-Y0iPpU8XpHxHJnlsFYUYrnzMN/view?usp=sharing). The 3mf version of the file is here: [QuadStick Mouthpieces and Pieces (3mf)](https://drive.google.com/file/d/12o7NWIAmEEThBpY7NXZowwWWr7zanRZF/view?usp=sharing). Below is a picture of the file in Bambu:
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/Screenshot 2026-03-30 144716.png">
