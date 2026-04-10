@@ -82,3 +82,5 @@ tags:
 **March 24th, 2026**: I did another set of screws at 92%, 91%, 90%, 89%, and 88%. I found that the 88% version fit very well into the mouthpiece. I started another print with 4 of the 88% screws to make sure that it fit into all 4 versions of the mouthpiece.
 
 **March 30th, 2026**: I made a file with the 4 mouthpieces and the 4 screws. I had to figure out how I could share the file with the supports painted on, as I did not want to make the Atrium employees have to paint on supports before every print. It would not export the support painting as an STL file, so I asked ChatGPT and it said that a 3mf file would export the painting. 
+
+**April 7-10, 2026**: I printed the screws in different orientations to see which fit into the QuadStick best. The reason it took so many tries and days were issues with the printers failing or being thrown away. Throughout these days I also worked on prepared my presentation for our Innovation and design showcase night. 
